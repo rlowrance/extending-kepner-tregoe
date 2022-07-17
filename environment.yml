@@ -1,0 +1,7 @@
+name: extend-kt
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyterlab
+prefix: /Users/roy/miniconda3/envs/extend-kt
